@@ -1,0 +1,15 @@
+torch==1.13.1
+ipykernel==6.21.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+SciencePlots==2.0.1
+numpy==1.24.2
+scikit-learn==1.2.2
+xgboost==1.7.4
+lightgbm==3.3.5
+catboost==1.1.1
+nltk==3.8.1
+transformers==4.26.1
+datasets==2.3.2
+evaluate==0.2.2
+setfit==0.4.1

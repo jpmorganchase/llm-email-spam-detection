@@ -1,0 +1,9 @@
+venv
+.vscode
+__pycache__
+data
+outputs
+experiments
+src/spamdetection.egg-info
+src/notebooks/tmp_trainer
+.ipynb_checkpoints
