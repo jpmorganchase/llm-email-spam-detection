@@ -16,8 +16,8 @@ This paper investigates the effectiveness of large language models (LLMs) in ema
 
 All Python packages needed are listed in [requirements.txt](requirements.txt). You can install them with the following commands:
 
-    git clone https://github.com/jpmorganchase/emailspamdetection.git
-    cd emailspamdetection
+    git clone https://github.com/jpmorganchase/llm-email-spam-detection.git
+    cd llm-email-spam-detection
     python -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu116
