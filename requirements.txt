@@ -9,7 +9,7 @@ xgboost==1.7.4
 lightgbm==3.3.5
 catboost==1.1.1
 nltk==3.8.1
-transformers==4.26.1
+transformers==4.30.0
 datasets==2.3.2
 evaluate==0.2.2
 setfit==0.4.1
